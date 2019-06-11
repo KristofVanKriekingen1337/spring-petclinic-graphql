@@ -37,7 +37,7 @@ GraphQL frameworks used in the frontend:
 First clone the application:
 
 ```bash
-git clone https://github.com/spring-petclinic/spring-petclinic-graphql.git
+git clone https://github.com/KristofVanKriekingen1337/spring-petclinic-graphql
 ```
 
 Then build and start the SpringBoot backend using Maven:
